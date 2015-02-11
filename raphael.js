@@ -7086,7 +7086,8 @@
         height = height || 342;
         $(cnvs, {
             height: height,
-            version: 1.1,
+            version: 1.2,
+            baseProfile="tiny",
             width: width,
             xmlns: "http://www.w3.org/2000/svg",
             "xmlns:xlink": "http://www.w3.org/1999/xlink"
